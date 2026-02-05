@@ -1,3 +1,8 @@
+
+##dio-notebookLM
+
+Compartilho aqui meu aprendizado com o uso do Notebook LM.
+
 # Os Ciclos da Riqueza: O Guia da Liberdade Financeira
 
 ## 📘 Descrição do Projeto
@@ -37,7 +42,7 @@ https://www.youtube.com/watch?v=dunfejH4Q9o
 
 ---
 
-## ❓ Perguntas Estratégicas
+## ❓ Perguntas Estratégicas feitas
 1. O que é educação financeira e por que ela é essencial?
 2. Como organizar um orçamento pessoal de forma prática?
 3. Qual a importância da reserva de emergência?
@@ -45,5 +50,7 @@ https://www.youtube.com/watch?v=dunfejH4Q9o
 5. Quais são os primeiros passos para um planejamento financeiro eficaz?
 
 ##📂 Recursos Adicionais
+<img width="1863" height="914" alt="image" src="https://github.com/user-attachments/assets/e36a21ed-6e6f-42df-87c2-42019b2c3f7e" />
+
 NotebookLM Project: [Link do projeto](https://notebooklm.google.com/notebook/9983ba7d-cd13-4d8b-8ac4-15d4794491cf)
 
